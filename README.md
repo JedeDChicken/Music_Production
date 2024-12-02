@@ -5,3 +5,5 @@
 2. Touch - Katseye- https://youtu.be/l9CZykYZkOQ
 
 *I do not know yet the producers of the 2 Tiktok songs- 
+
+*Digital Signal Processing application, especially the sound engineering and signal chain part
